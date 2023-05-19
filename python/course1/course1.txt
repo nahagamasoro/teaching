@@ -1,0 +1,5 @@
+Definition de python
+Difference entre langage compilé et langage interpreté
+Quelles sont les étapes pour faire du code python ?
+Comment déclarer une variables en python ?
+Comment afficher une variable ?
